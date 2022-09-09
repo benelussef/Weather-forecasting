@@ -21,8 +21,12 @@ V- comparison of results
 ![rf](https://user-images.githubusercontent.com/89108919/189331662-f9682673-9c39-4921-bac7-3ca9bb6e1465.PNG)
 
 N.B
+
 PR : Polynomial Regression 
+
 MLR : Multiple linear Regression 
+
 DTR : Decision Tree Regression
+
 RFR : Random Forest Regression
 
